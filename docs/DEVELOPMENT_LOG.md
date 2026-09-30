@@ -1,8 +1,9 @@
 # DEVELOPMENT LOG
 
-## M01 First Playable — COMPLETE
-## M02 Dog Animation State Machine — COMPLETE
-## M03 Dragon Blaster FPS Viewmodel — COMPLETE
-## M04 Death / Spectator / Revive — COMPLETE
+M01-M04 complete.
+M05 Combat polish COMPLETE
+M06 Character system COMPLETE
+M07 Weapon data 20 weapons COMPLETE
+M08 Grenades (fart/poop/smoke...) + Abilities (fart_jump etc) COMPLETE
 
-Next: M05 Combat polish
+Next: M09 UI, M10 Inventory/Currency, M11+ Maps, Zombies
