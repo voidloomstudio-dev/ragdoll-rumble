@@ -1,0 +1,10 @@
+.godot/
+*.import
+*.tmp
+__pycache__/
+assets/sfx/impact/
+assets/sfx/interface/
+*.zip
+*.tgz
+.DS_Store
+user://
