@@ -1,18 +1,8 @@
-# DEVELOPMENT LOG — Controlled Rebuild
+# DEVELOPMENT LOG
 
-## 2026-09-30 — M01 Foundation + First Playable
+## M01 First Playable — COMPLETE
+## M02 Dog Animation State Machine — COMPLETE
+## M03 Dragon Blaster FPS Viewmodel — COMPLETE
+## M04 Death / Spectator / Revive — COMPLETE
 
-### What changed
-- Clean folder architecture
-- HealthComponent, PlayerMovement, WeaponManager modules
-- Dog GLB default character
-- Empty hands + weapon pickups
-- Dragon Blaster + 3 Blender weapons
-- Sprint/slide/crouch/jump, FPS/TPS
-
-### Tests
-- Godot headless load: PASS
-- Dog + weapon GLBs present: PASS
-
-### Remaining
-AnimationTree, FPS arms, death/spectate, revive, zombies, weather, release
+Next: M05 Combat polish
